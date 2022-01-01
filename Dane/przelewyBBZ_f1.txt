@@ -1,0 +1,5 @@
+KLASYCZNY      WPLATA    Jan Nowak 81141913572 100 Anna                Nowak Kowalska      Zwrot pożyczki
+KLASYCZNY      WPLATA    Jan Nowak 81141913572 1200 Anna                Nowak Kowalska      Zwrot pożyczki
+KLASYCZNY      WPLATA    Janina Nowak 88141913572 1000 Anna                Nowak Kowalska      Zwrot pożyczki
+KLASYCZNY      WPLATA    Jan Nowak 8111913572 1200 Anna                Nowak Kowalska      Zwrot pożyczki
+KLASYC      WPLATA    Jan Nowak 81141910003572 1200 Anna                Nowak Kowalska      Zwrot pożyczki

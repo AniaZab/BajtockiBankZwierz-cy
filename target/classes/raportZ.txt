@@ -1,0 +1,3 @@
+Liczbę transakcji zaksięgowanych: 0
+Liczbę transakcji odrzuconych: 0
+Sumę zaksięgowanych kwot: 0

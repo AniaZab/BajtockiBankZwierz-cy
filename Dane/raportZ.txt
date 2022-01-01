@@ -1,0 +1,3 @@
+Liczbę transakcji zaksięgowanych: 6
+Liczbę transakcji odrzuconych: 2
+Sumę zaksięgowanych kwot: 2855
